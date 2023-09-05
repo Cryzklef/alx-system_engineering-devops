@@ -1,2 +1,2 @@
 #!/bin/bash
-typef "%x/n" $DECIMAL
+printf "%X\n" "$DECIMAL"
